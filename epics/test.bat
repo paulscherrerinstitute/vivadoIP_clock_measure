@@ -1,0 +1,1 @@
+python3 GenerateClockMeasTemplates.py -outname CLOCK_MEASURE -outpath . -clocks SFP-REF SFP-RX SFP-TX ADC

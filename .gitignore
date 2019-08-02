@@ -1,0 +1,11 @@
+#Packaging artifacts
+scripts/package_prj
+xgui/*_wrp_*.tcl
+
+#Example template
+epics/*.template
+
+
+#Pycharm Files
+**/.idea/**/*
+*.pyc
