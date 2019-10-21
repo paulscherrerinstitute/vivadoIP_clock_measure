@@ -6,6 +6,10 @@
 
 #pragma once
 
+#ifdef __cplusplus
+extern "C" {
+#endif
+
 //*******************************************************************************
 // Includes
 //*******************************************************************************
@@ -31,3 +35,8 @@ uint32_t ClockMeasure_GetFreq(const uint32_t baseAddr, const uint8_t clock);
  * @return				Frequency of the clock in MHz
  */
 float ClockMeasure_GetFreqMhz(const uint32_t baseAddr, const uint8_t clock);
+
+#ifdef __cplusplus
+}
+#endif
+
