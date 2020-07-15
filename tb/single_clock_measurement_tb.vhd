@@ -139,7 +139,7 @@ begin
 		CheckFrequency(2000, 1, FrequencyHz);	
 		
 		report "Zero";
-		HzTest <= 0.0001;
+		HzTest <= 0.001;
 		wait for 2 sec;
 		CheckFrequency(0, 0, FrequencyHz);	
 			
