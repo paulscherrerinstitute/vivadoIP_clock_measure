@@ -1,3 +1,9 @@
+## 1.4.1
+
+* Bugfixes
+  * Made TB compatible with GHDL (workaround for GHDL issue #881)
+  * Made driver C++ tolerant
+
 ## 1.4.0
 
 * First Open Source Release (older versions not kept in history)
