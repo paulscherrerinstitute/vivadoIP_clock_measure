@@ -1,3 +1,6 @@
+## 1.5.1
+* Fixes driver makefile to work with Vitis
+
 ## 1.5.0
 * Update Readme
 
