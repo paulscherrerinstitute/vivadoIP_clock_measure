@@ -372,7 +372,7 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>5f7a3a88</spirit:value>
+            <spirit:value>bd5971a4</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -388,7 +388,7 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>5f7a3a88</spirit:value>
+            <spirit:value>0661c965</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -1163,9 +1163,13 @@
         <spirit:logicalName>clock_measure_1_4</spirit:logicalName>
       </spirit:file>
       <spirit:file>
+        <spirit:name>constraints/single_clock_measurement_timing.xdc</spirit:name>
+        <spirit:userFileType>xdc</spirit:userFileType>
+      </spirit:file>
+      <spirit:file>
         <spirit:name>hdl/clock_measure_vivado_wrp.vhd</spirit:name>
         <spirit:userFileType>vhdlSource-2008</spirit:userFileType>
-        <spirit:userFileType>CHECKSUM_8aeede91</spirit:userFileType>
+        <spirit:userFileType>CHECKSUM_bfd7f3d5</spirit:userFileType>
         <spirit:logicalName>clock_measure_1_4</spirit:logicalName>
       </spirit:file>
     </spirit:fileSet>
@@ -1312,14 +1316,14 @@
       <xilinx:definitionSource>package_project</xilinx:definitionSource>
       <xilinx:vendorDisplayName>Paul Scherrer Institute</xilinx:vendorDisplayName>
       <xilinx:vendorURL>http://www.psi.ch</xilinx:vendorURL>
-      <xilinx:coreRevision>1688389429</xilinx:coreRevision>
-      <xilinx:coreCreationDateTime>2023-07-03T13:05:07Z</xilinx:coreCreationDateTime>
+      <xilinx:coreRevision>1688741449</xilinx:coreRevision>
+      <xilinx:coreCreationDateTime>2023-07-07T14:52:10Z</xilinx:coreCreationDateTime>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
       <xilinx:xilinxVersion>2022.1</xilinx:xilinxVersion>
       <xilinx:checksum xilinx:scope="busInterfaces" xilinx:value="51cb901c"/>
       <xilinx:checksum xilinx:scope="memoryMaps" xilinx:value="2b8fc426"/>
-      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="9adc3338"/>
+      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="25143f13"/>
       <xilinx:checksum xilinx:scope="ports" xilinx:value="bff3631f"/>
       <xilinx:checksum xilinx:scope="hdlParameters" xilinx:value="81bd4494"/>
       <xilinx:checksum xilinx:scope="parameters" xilinx:value="fd76fb0b"/>
