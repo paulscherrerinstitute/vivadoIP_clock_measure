@@ -32,6 +32,7 @@ set_datasheet_relative "../doc/$IP_NAME.pdf"
 add_sources_relative { \
 	../hdl/single_clock_measurement.vhd \
 	../hdl/clock_measure_vivado_wrp.vhd \
+	../constraints/single_clock_measurement_timing.xdc \
 }
 
 #PSI Common
